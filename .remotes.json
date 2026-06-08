@@ -1,0 +1,14 @@
+[
+  {
+    "package": "MCPanel",
+    "url": "https://github.com/susanathey/MCPanel",
+    "via": ["optic", "augsynth"],
+    "from": "optic"
+  },
+  {
+    "package": "augsynth",
+    "url": "https://github.com/ebenmichael/augsynth",
+    "via": ["optic"],
+    "from": "optic"
+  }
+]
