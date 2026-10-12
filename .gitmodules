@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "MCPanel"]
-	path = MCPanel
-	url = https://github.com/susanathey/MCPanel
-	registered = false
 [submodule "augsynth"]
 	path = augsynth
 	url = https://github.com/ebenmichael/augsynth
